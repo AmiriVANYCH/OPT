@@ -1,0 +1,7 @@
+PROGRAM T15O7;(*Довільний текст який містьть *** в середені коментаря *)
+CONST G47HR1 = 19;
+CONST G47hR2 = -19;
+CONST G47HR3 = 19#-;
+CONST G47HR5 = -19#-19BEGIN
+
+END
